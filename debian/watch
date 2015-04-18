@@ -1,0 +1,3 @@
+version=3
+http://archive.xfce.org/src/panel-plugins/xfce4-places-plugin/([\d\.]+)/ \
+	xfce4-places-plugin-([\d\.]+)\.tar\.(?:gz|bz2)
